@@ -5,7 +5,7 @@
 
 #### Frontend:
 
-Angular
+Angular 
 
 #### Backend (Language/Systems):
 
